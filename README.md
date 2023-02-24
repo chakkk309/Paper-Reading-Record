@@ -13,8 +13,13 @@
 * [Eight Observations and 24 Research Questions About Open Source Projects- Illuminating New Realities](https://dl.acm.org/doi/pdf/10.1145/3274326)
 * [* Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
 * [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
-* [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
+
+GSoC Engagement
+
+* Engagement Motivation: [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
 * [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
+* [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
+* [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
 
 Others
 
