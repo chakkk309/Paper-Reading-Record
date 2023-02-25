@@ -13,6 +13,7 @@ Open Source Software
 * [Eight Observations and 24 Research Questions About Open Source Projects- Illuminating New Realities](https://dl.acm.org/doi/pdf/10.1145/3274326)
 * [* Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
 * [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
+* [Upstream First: An Ethnographic Study Of Open Source Software Community](https://www.youtube.com/watch?v=-NU7zl2p1NQ)
 
 GSoC Engagement
 
