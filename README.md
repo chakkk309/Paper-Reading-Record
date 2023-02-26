@@ -19,8 +19,12 @@ GSoC Engagement
 
 * Engagement Motivation: [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
 * [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
-* [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
-* [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
+* Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
+* Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
+
+Collaboration Network in Complex Network
+* 开源软件社区开发者合作网络的演化分析
+* 开源软件社区开发者协作网络结构演化分析 ———以 Cloud Foundry社区为例
 
 Others
 
