@@ -17,7 +17,7 @@ Open Source Software
 * [What Makes a Great Maintainer of Open Source Projects?](https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00093)
 * [* Socialization in an Open Source Software Community: A Socio-Technical Analysis]()
 * [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
-* MSR: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf)
+* MSR: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
 
 GSoC Engagement
 
