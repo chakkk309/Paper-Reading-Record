@@ -21,6 +21,7 @@ ASF Sustainability
 * [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
 * MSR: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
 * Dataset: [Apache Software Foundation Incubator Project Sustainability Dataset](https://www.cs.ucdavis.edu/~filkov/papers/msr_asf_data_2021.pdf)
+* [On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study](https://www.cs.ucdavis.edu/~filkov/papers/ICSE2023.pdf)
 
 GSoC Engagement
 
