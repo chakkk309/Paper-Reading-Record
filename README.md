@@ -13,7 +13,7 @@ Open Source Software
 * [Eight Observations and 24 Research Questions About Open Source Projects- Illuminating New Realities](https://dl.acm.org/doi/pdf/10.1145/3274326)
 * [Upstream First: An Ethnographic Study Of Open Source Software Community](https://www.youtube.com/watch?v=-NU7zl2p1NQ)
 * [What Makes a Great Maintainer of Open Source Projects?](https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00093)
-* [* Socialization in an Open Source Software Community: A Socio-Technical Analysis]()
+* 2005 CSCW: [Socialization in an Open Source Software Community: A Socio-Technical Analysis](https://link.springer.com/article/10.1007/s10606-005-9000-1)
 * [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
 * [Social network analysis of open source software: A review and categorisation](sciencedirect.com/science/article/abs/pii/S0950584920301956?via%3Dihub)
 
