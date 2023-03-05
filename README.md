@@ -13,23 +13,24 @@ Open Source Software
 * [Eight Observations and 24 Research Questions About Open Source Projects- Illuminating New Realities](https://dl.acm.org/doi/pdf/10.1145/3274326)
 * [Upstream First: An Ethnographic Study Of Open Source Software Community](https://www.youtube.com/watch?v=-NU7zl2p1NQ)
 * [What Makes a Great Maintainer of Open Source Projects?](https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00093)
-* 2005 CSCW: [Socialization in an Open Source Software Community: A Socio-Technical Analysis](https://link.springer.com/article/10.1007/s10606-005-9000-1)
-* [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
+* CSCW 2005: [Socialization in an Open Source Software Community: A Socio-Technical Analysis](https://link.springer.com/article/10.1007/s10606-005-9000-1)
+* CSCW 2015: [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
 * [Social network analysis of open source software: A review and categorisation](sciencedirect.com/science/article/abs/pii/S0950584920301956?via%3Dihub)
 
 ASFI Sustainability
-* CSCW 2022: [Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
-* ESEC/FCE 21: [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
-* MSR 2022: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
-* Dataset: [Apache Software Foundation Incubator Project Sustainability Dataset](https://www.cs.ucdavis.edu/~filkov/papers/msr_asf_data_2021.pdf)
 * ICSE 2023: [On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study](https://www.cs.ucdavis.edu/~filkov/papers/ICSE2023.pdf)
+* CSCW 2022: [Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
+* MSR 2022: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
+* ESEC/FCE 21: [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563)
+* Dataset: [Apache Software Foundation Incubator Project Sustainability Dataset](https://www.cs.ucdavis.edu/~filkov/papers/msr_asf_data_2021.pdf)
+
 
 GSoC Engagement
 
 * Engagement Motivation: [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
-* [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
-* Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
-* Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
+* ICSME 17: [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
+* CSCW 16, Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
+* GROUP 14, Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
 
 Collaboration Network in Complex Network
 * 开源软件社区开发者合作网络的演化分析
