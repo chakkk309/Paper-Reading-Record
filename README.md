@@ -37,6 +37,8 @@ Collaboration Network in Complex Network
 
 Others
 
+* [Performance and Participation in Open Source Software on GitHub](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2468356.2468382)
+* [An Empirical Study of Multiple Names and Email Addresses in OSS Version Control Repositories]()
 * [Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions](https://dl.acm.org/doi/pdf/10.1145/2998181.2998213)
 * [Large Scale Analysis of Multitasking Behavior During Remote Meetings](https://arxiv.org/pdf/2101.11865.pdf)
 * [Apache ShardingSphere: A Holistic and Pluggable Platform for Data Sharding](http://www.kangry.net/paper/ICDE2022_SS.pdf)
