@@ -17,12 +17,12 @@ Open Source Software
 * [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
 * [Social network analysis of open source software: A review and categorisation](sciencedirect.com/science/article/abs/pii/S0950584920301956?via%3Dihub)
 
-ASF Sustainability
-* [Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
-* [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
-* MSR: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
+ASFI Sustainability
+* CSCW 2022: [Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks](https://dl.acm.org/doi/pdf/10.1145/3555129)
+* ESEC/FCE 21: [Sustainability Forecasting for Apache Incubator Projects](https://dl.acm.org/doi/pdf/10.1145/3468264.3468563) 
+* MSR 2022: [Exploring Apache Incubator Project Trajectories with APEX](https://arxiv.org/pdf/2205.10992.pdf) (Data Display Link: https://ossustain.github.io/APEX/)
 * Dataset: [Apache Software Foundation Incubator Project Sustainability Dataset](https://www.cs.ucdavis.edu/~filkov/papers/msr_asf_data_2021.pdf)
-* [On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study](https://www.cs.ucdavis.edu/~filkov/papers/ICSE2023.pdf)
+* ICSE 2023: [On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study](https://www.cs.ucdavis.edu/~filkov/papers/ICSE2023.pdf)
 
 GSoC Engagement
 
