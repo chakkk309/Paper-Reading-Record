@@ -35,6 +35,10 @@ GSoC Engagement
 Collaboration Network in Complex Network
 * 开源软件社区开发者合作网络的演化分析
 * 开源软件社区开发者协作网络结构演化分析 ———以 Cloud Foundry社区为例
+* SIGSOFT Software Engineering Notes 2012: [Empirical Studies of Global Volunteer Collaboration in the Development of Free and Open Source Software: Analysis of Six Top Ranked Projects in Sourceforge.net](https://dl.acm.org/doi/pdf/10.1145/2108144.2108156)
+* 2012: [Network Analysis of the SourceForge.net Community](https://dl.ifip.org/db/conf/oss/oss2007/GaoM07.pdf)
+* [Mining and Visualizing Developer Networks from Version Control Systems](https://dl.acm.org/doi/pdf/10.1145/1984642.1984647)
+* [Quantitative Analysis of Community Evolution in Developer Social Networks Around Open Source Software Projects](https://arxiv.org/pdf/2205.09935.pdf)
 
 Others
 
@@ -43,3 +47,6 @@ Others
 * [Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions](https://dl.acm.org/doi/pdf/10.1145/2998181.2998213)
 * [Large Scale Analysis of Multitasking Behavior During Remote Meetings](https://arxiv.org/pdf/2101.11865.pdf)
 * [Apache ShardingSphere: A Holistic and Pluggable Platform for Data Sharding](http://www.kangry.net/paper/ICDE2022_SS.pdf)
+
+Book:
+ * [Open Source Software: Quality Verification]()
