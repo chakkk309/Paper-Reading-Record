@@ -29,6 +29,7 @@ Attract and Retain Contributors
 * [A systematic literature review on the barriers faced by newcomers to open source software projects](https://www.ime.usp.br/~gerosa/papers/IST_SysReview_PrePrint.pdf)
 * CSCW 2019: [The Signals that Potential Contributors Look for When Choosing Open-source Projects](https://dl.acm.org/doi/pdf/10.1145/3359224)
 * SANER 2016: [More Common Than You Think: An In-Depth Study of Casual Contributors](http://gustavopinto.org/lost+found/saner2016.pdf)
+* ICSE 2018: [Open Source barriers to entry, revisited: A sociotechnical perspective](https://dl.acm.org/doi/pdf/10.1145/3180155.3180241)
 
 Collaboration Network in Complex Network
 * 开源软件社区开发者合作网络的演化分析
