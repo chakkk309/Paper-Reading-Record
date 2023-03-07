@@ -50,3 +50,7 @@ Others
 
 Book:
  * [Open Source Software: Quality Verification]()
+ 
+OSS Dataset:
+* MSR 2013: [The GHTorent Dataset and Tool Suite](https://gousios.org/pub/ghtorrent-dataset-toolsuite.pdf) [Code](https://github.com/gousiosg/github-mirror)
+
