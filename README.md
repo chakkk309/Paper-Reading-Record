@@ -26,7 +26,9 @@ GSoC Engagement
 Attract and Retain Contributors
 * ICSE-SEIS’22: [Attracting and Retaining OSS Contributors with a Maintainer Dashboard](https://arxiv.org/pdf/2202.07740.pdf)
 * CSCW 2015: [Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects](https://dl-acm-org.ez.xjtlu.edu.cn/doi/10.1145/2675133.2675215)
+* [A systematic literature review on the barriers faced by newcomers to open source software projects](https://www.ime.usp.br/~gerosa/papers/IST_SysReview_PrePrint.pdf)
 * CSCW 2019: [The Signals that Potential Contributors Look for When Choosing Open-source Projects](https://dl.acm.org/doi/pdf/10.1145/3359224)
+* SANER 2016: [More Common Than You Think: An In-Depth Study of Casual Contributors](http://gustavopinto.org/lost+found/saner2016.pdf)
 
 Collaboration Network in Complex Network
 * 开源软件社区开发者合作网络的演化分析
