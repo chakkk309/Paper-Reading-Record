@@ -21,7 +21,7 @@ GSoC Engagement
 * Engagement Motivation: [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
 * ICSME 17: [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
 * CSCW 16, Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf) 
-* GROUP 14, Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software (https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
+* GROUP 14, Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
 
 Attract and Retain Contributors
 * ICSE-SEIS’22: [Attracting and Retaining OSS Contributors with a Maintainer Dashboard](https://arxiv.org/pdf/2202.07740.pdf)
