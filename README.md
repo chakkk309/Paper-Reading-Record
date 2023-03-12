@@ -20,8 +20,8 @@ ASFI Sustainability
 GSoC Engagement
 * Engagement Motivation: [Google Summer of Code: Student Motivations and Contributions](https://arxiv.org/pdf/1910.05798.pdf) 
 * ICSME 17: [How Long and How Much: What to Expect from Summer of Code Participants?](https://ieeexplore-ieee-org.ez.xjtlu.edu.cn/stamp/stamp.jsp?tp=&arnumber=8094410) 
-* CSCW 16, Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf)
-* GROUP 14, Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
+* CSCW 16, Qualitative: [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](https://www.cs.cmu.edu/~etrainer/papers/hackathons-tradeoffs.pdf) 
+* GROUP 14, Qualitative: [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software (https://www.cs.cmu.edu/~etrainer/papers/GSoC-hackathons.pdf)
 
 Attract and Retain Contributors
 * ICSE-SEIS’22: [Attracting and Retaining OSS Contributors with a Maintainer Dashboard](https://arxiv.org/pdf/2202.07740.pdf)
@@ -31,6 +31,12 @@ Attract and Retain Contributors
 * SANER 2016: [More Common Than You Think: An In-Depth Study of Casual Contributors](http://gustavopinto.org/lost+found/saner2016.pdf)
 * ICSE 2018: [Open Source barriers to entry, revisited: A sociotechnical perspective](https://dl.acm.org/doi/pdf/10.1145/3180155.3180241)
 * ESEC/FSE ’20: [A First Look at Good First Issues on GitHub](https://dl.acm.org/doi/pdf/10.1145/3368089.3409746)
+
+Barriers For Newcomer
+
+* IDoESE 2017: [One-Time Contributors to FLOSS: Surveys and Data Analysis](https://dl.acm.org/doi/pdf/10.1145/3178315.3178327)
+* 17: [Are One-Time Contributors Different? A Comparison to Core and Periphery Developers in FLOSSRepositories](https://dl.acm.org/doi/pdf/10.1109/ESEM.2017.7)
+* [Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7985661) 
 
 Collaboration Network in Complex Network
 * 开源软件社区开发者合作网络的演化分析
